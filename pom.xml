@@ -58,6 +58,10 @@
             <artifactId>spring-boot-starter-data-rest-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <artifactId>spring-data-rest-hal-explorer</artifactId>
+            <groupId>org.springframework.data</groupId>
+        </dependency>
     </dependencies>
 
     <build>
